@@ -19,6 +19,9 @@ Feel free to leave  any comment or  any questions through:
 * 0701790795
 * Shalom Pauline Odida - Facebook
 * odidapauline@gmail.com
+
+## you can view the website using the link below;
+* [portfolio] (https://shalomodida.github.io/Portfolio/)
 ### License
 * MIT License
 Copyright (c) 2020 Shalom Pauline Odida
